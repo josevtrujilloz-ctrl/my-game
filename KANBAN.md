@@ -43,3 +43,21 @@ Acceptance criteria:
 2. The board, score, and Restart button remain usable on a phone screen.
 3. Restart resets the round while preserving best score, and desktop arrow controls still work.
 
+### 3. Understand the timer
+
+As a player, I want to understand what the timer measures, so that I know whether I am racing against time.
+
+Source: Players 2 and 4 in FEEDBACK.md. Future candidate; not started.
+
+Acceptance criteria:
+1. Before starting, the player can find a plain-language explanation that the timer measures elapsed playing time, not a countdown or time limit.
+2. In a follow-up playtest, the player can correctly explain whether the timer affects losing the game.
+
+### Ideas needing clarification
+
+- Player 2: increasing challenge or another target beyond personal best.
+- Players 4 and 5: variety and rewards for replay or risk.
+- Players 3 and 5: best-score motivation. Ask Player 3 what felt missing from the existing Restart button and best-score display.
+
+These ideas need further scoping before becoming implementation stories. No additional game changes are part of the completed snake story.
+
