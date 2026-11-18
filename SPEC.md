@@ -9,3 +9,5 @@ Build a small, offline Snake game in one index.html file using plain HTML, CSS, 
 3. The head touching any of the four walls or any part of its own body immediately ends the game. The walls have shading that gives them a 3D appearance.
 4. After game over, the screen shows pellets eaten, elapsed playing time, and best score. Best score persists across restarts while the page stays open; retaining it after closing or reloading the page is not required.
 5. A Restart button begins a new game with the original snake length, zero points, and a reset timer, while preserving the best score.
+## Playtesting
+Ask players where they got stuck or bored.
